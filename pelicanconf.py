@@ -23,7 +23,7 @@ AUTHOR_FEED_RSS = None
 
 # Theme
 
-THEME = '/home/matheus/Downloads/nice-blog'
+THEME = '/home/matheus-os/Downloads/nice-blog-master/'
 THEME_COLOR ='cyan'
 SIDEBAR_DISPLAY = ['about', 'categories', 'tags']
 SIDEBAR_ABOUT = "Jovem de 18 anos apaixonado por programação, formado Técnico em Informática com alguns projetos a fazer."
