@@ -6,7 +6,7 @@ Slug: Sobre
 <p id="postagens">
 
 <figure style="float:left;padding: 0 10px 10px 0">
-<img src="../images/matheus.jpeg" style="height:200px;width:200px"/></figure>Formado Técnico em Informática na ETEC, pelo Centro Paula Souza. <br>  Sou apaixonado por informática desde que eu era pequeno, e sei que é isso que quero para vida, atualmente meus planos são atuar na área de informática e fazer uma faculdade de Ciência da Computação ou Análise e Desenvolvimento de Sistemas. 
+<img src="../images/matheus.jpeg" style="height:400px;width:200px"/></figure>Formado Técnico em Informática na ETEC, pelo Centro Paula Souza. <br>  e graduando em Análise e Desenvolvimento de Sistemas pela Fatec Praia Grande
 
 
 
@@ -14,11 +14,11 @@ Slug: Sobre
 <h2><a>Escolaridade</a></h2>
 
 
-Ensino médio concluido com sucesso! <br>
+ <br>
 
-<b>Escola:</b>
+<b>Faculdade: 2° Semestre</b>
 
-<progress max="100" value="100" style="width:250px"></progress>
+<progress max="16.6666667" value="100" style="width:250px"></progress>
 
 
 <hr>
@@ -33,13 +33,13 @@ biblioteca JDBC e a criação de relatórios usando a ferramenta iReport.
 
 <strong>PHP:</strong> Realização de operações básicas da linguagem e a ligação com formulários em HTML.
 
-<strong>MySQL:</strong> Noções intermediárias na criação de Banco de Dados, utilização de Inner Join, Trigger e
+<strong>MySQL:</strong> Noções na criação de Banco de Dados, utilização de Inner Join, Trigger e
 Procedures
 
-<strong>Mobile:</strong> Habilidades básicas de desenvolvimento utilizando C# e Axml e ligação com Banco de Dados
+<strong>Mobile:</strong> Desenvolvimento utilizando C# e Axml e ligação com Banco de Dados
 utilizando SQLite.
 
-<strong>HTML:</strong> Conhecimento intermediário na criação de páginas web.
+<strong>HTML:</strong> Conhecimento na criação de páginas web.
 
 <strong>CSS:</strong> Conhecimento básico na confecção de páginas web.
 
@@ -47,7 +47,7 @@ utilizando SQLite.
 Conhecimento intermediários na criação de Banco de Dados utilizando Access, tais como utilização de
 macro, criação de formulário e relacionamentos.
 
-<strong>Línguas:</strong> Inglês Intermediário, Português nativo
+<strong>Línguas:</strong> Inglês Intermediário, Espanhol básico
 <hr>
 <h2><a>Projetos</h2></a>
 
