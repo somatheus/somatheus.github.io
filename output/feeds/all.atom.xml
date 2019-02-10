@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Matheus O. Santos</title><link href="https://somatheus.github.io/" rel="alternate"></link><link href="https://somatheus.github.io/feeds/all.atom.xml" rel="self"></link><id>https://somatheus.github.io/</id><updated>2017-10-15T00:00:00-03:00</updated><entry><title>Tutorial: Word com a formatação padrão ABNT</title><link href="https://somatheus.github.io/wordAbnt.html" rel="alternate"></link><published>2017-10-15T00:00:00-03:00</published><updated>2017-10-15T00:00:00-03:00</updated><author><name>Matheus O. Santos</name></author><id>tag:somatheus.github.io,2017-10-15:/wordAbnt.html</id><summary type="html">&lt;p&gt;Quem nunca teve que formatar um trabalho nas normas ABNT pela primeira vez, não sabe o que é sufoco, e quem nunca teve que fazer diversos trabalhos e lembrar da norma nem se fale. Mas você sabia que há uma maneira de você padronizar as suas formatações? E é bem simples, ensinarei para vocês hoje, como padronizar um documento na forma que vocês quiserem...&lt;/p&gt;</summary><content type="html">&lt;p&gt;Isso parece sempre uma daquelas tarefas impossíveis de que quando o professor passa você fica bravo e tudo mais, mas é tudo uma questão de prática. As normas ABNT, não são tão ruins assim depois que você conhece ela. Mas admito que é horrível ficar formatando sempre. Se atente a esse tutorial e você não terá mais problemas com isso&lt;/p&gt;
+&lt;p&gt;Primeiro de tudo abra obviamente o Word.Para esse primeiro passo, vamos precisar apenas desse elementos. &lt;/p&gt;
+&lt;p&gt;&lt;a href="images/imagem-tutorial-word-formatacao-abnt-passo1.png"&gt;&lt;img src="images/imagem-tutorial-word-formatacao-abnt-passo1.png" id="imagens"  height="300px"/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Clique naquela seta pequena no canto.
+&lt;br&gt;&lt;br&gt;
+&lt;a href="images/imagem-tutorial-word-formatacao-abnt-passo2.png"&gt;&lt;img src="images/imagem-tutorial-word-formatacao-abnt-passo2.png" id="imagens"  height="300px"/&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+Abrirá essa janela aqui. Altere a fonte para "Arial". O estilo da fonte para "normal".O tamanho para "12" e clique em "Definir como padrão". 
+&lt;br&gt;&lt;br&gt;
+&lt;a href="images/imagem-tutorial-word-formatacao-abnt-passo3.png"&gt;&lt;img src="images/imagem-tutorial-word-formatacao-abnt-passo3.png" id="imagens"  height="300px"/&gt;&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+Ao clicar aparecerá a mensagem abaixo. Ao aparecer, selecione a segunda opção e aperte "Ok"
+&lt;br&gt;&lt;br&gt;
+&lt;a href=".images/imagem-tutorial-word-formatacao-abnt-passo4.png"&gt;&lt;img src="images/imagem-tutorial-word-formatacao-abnt-passo4.png" id="imagens"  height="300px"/&gt;&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+Você voltará para a tela inicial do documento, agora é hora de selecionar a mesma setinha na parte de "Páragrafo"
+&lt;br&gt;&lt;br&gt;
+&lt;a href="images/imagem-tutorial-word-formatacao-abnt-passo5.png"&gt;&lt;img src="images/imagem-tutorial-word-formatacao-abnt-passo5.png" id="imagens"  height="300px"/&gt;&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+Irá aparecer uma janela parecida a da anterior. Deixe o alinhamento como "justificado" o nível do tópico como "corpo de texto"(a não ser que isso seja para titulo se você estiver fazendo a formatação para um título deixe como título 1. Apenas os textos tem que ficar como "corpo de Texto"). Deixe especial como "primeira linha Por 2 CM". E o espaçamento entre linhas como "1,5". Deixe os valores que sobraram como 0. Ao terminar, clique em "Definir como padrão" e depois selecione a segunda opção que é "Todos os modelos baseados no modelo normal .dotm?"
+&lt;br&gt;&lt;br&gt;
+&lt;a href="images/imagem-tutorial-word-formatacao-abnt-passo6.png"&gt;&lt;img src="images/imagem-tutorial-word-formatacao-abnt-passo6.png" id="imagens"  height="300px"/&gt;&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+Feito isso vá na guia "Layout" e na aba de "Configurar Página". Clique na mesma setinha.
+&lt;br&gt;&lt;br&gt;
+&lt;a href="images/imagem-tutorial-word-formatacao-abnt-passo7.png"&gt;&lt;img src="images/imagem-tutorial-word-formatacao-abnt-passo7.png" id="imagens"  height="300px"/&gt;&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+Abrirá uma janela igual a das outras. Nela deixe "Superior" e "Esquerda" com "3 CM" e "Inferior" e "Direita" como &lt;br&gt; "2 CM". 
+&lt;br&gt;&lt;br&gt;
+&lt;a href="images/imagem-tutorial-word-formatacao-abnt-passo8.png"&gt;&lt;img src="images/imagem-tutorial-word-formatacao-abnt-passo8.png" id="imagens"  height="300px"/&gt;&lt;/a&gt;
+&lt;br&gt;&lt;br&gt; 
+E depois aperte "Definir como Padrão". Aparecerá uma mensagem aperte "Sim" nela
+&lt;br&gt;&lt;br&gt;
+&lt;a href="images/imagem-tutorial-word-formatacao-abnt-passo9.png"&gt;&lt;img src="images/imagem-tutorial-word-formatacao-abnt-passo9.png" id="imagens"  height="300px"/&gt;&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+Após ter feito tudo isso, as configurações de texto, e margem, irão ficar salvas como padrão e todos os documentos ficarão desse jeito.
+&lt;br&gt;&lt;/p&gt;</content><category term="word"></category><category term="abnt"></category><category term="formtacao"></category></entry><entry><title>Tutorial: Pendrive bootavel com Linux e memória persistente</title><link href="https://somatheus.github.io/LinuxPersistente.html" rel="alternate"></link><published>2017-10-10T00:00:00-03:00</published><updated>2017-10-10T00:00:00-03:00</updated><author><name>Matheus O. Santos</name></author><id>tag:somatheus.github.io,2017-10-10:/LinuxPersistente.html</id><summary type="html">&lt;p&gt;Hoje, vou mostrar para vocês como instalar uma distribuição linux com memória persistente. Bem, já vou avisando que o programa que vou usar hoje, pode não ser compátivel com todas as distribuições...&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hoje, vou mostrar para vocês como instalar uma distribuição linux com memória persistente. Bem, já vou avisando que o programa que vou usar hoje, pode não ser compátivel com todas as distribuições, mas para isso há outro programa chamado LiLi USB que talvez, TALVEZ, funcione a distribuição que você queira, por enquanto são os únicos que eu conheça. Mas se souber de mais algum, falo aqui e faço outro tutorial.
+&lt;br&gt;&lt;br&gt;
+O que precisaremos para a realização do projeto. Precisaremos do Universal-USB-Installer e um pendrive eu recomendaria um no mínimo de 4 GB e eu usarei um com esse tamanho. Primeiro baixe o Universal-USB-Installer  &lt;a href="http://www.pendrivelinux.com/downloads/Universal-USB-Installer/Universal-USB-Installer-1.9.6.8.exe" style="text-decoration:none"&gt;aqui&lt;/a&gt; Ele não é um aplicativo que precisa ser instalado para usar ele, basta apenas abrir ele após baixar. Abra o aplicativo. E você terá uma tela com um tela com o acordo de licença (license agreement). Clique em "I Agree" para continuar. Depois disso você terá essa tela:
+&lt;br&gt;&lt;br&gt;
+&lt;a href="images/imagem-usb-installer-passo1.png"&gt;&lt;img src="images/imagem-usb-installer-passo1.png" id="imagens"  height="300px"/&gt;&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+Clique aqui e selecione sua distro. Eu usarei a do ubuntu:
+&lt;br&gt;&lt;br&gt;
+&lt;a href="images/imagem-usb-installer-passo2.png"&gt;&lt;img src="images/imagem-usb-installer-passo2.png" id="imagens"  height="500px"/&gt;&lt;/a&gt;
+&lt;br&gt;&lt;br&gt; 
+Ao clicar aparecerá isso. Clique em Browse e selecione onde sua distro está 
+&lt;br&gt;&lt;br&gt;
+&lt;a href="images/imagem-usb-installer-passo3.png"&gt;&lt;img src="images/imagem-usb-installer-passo3.png" id="imagens"  height="350px"/&gt;&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+Depois de selecionar sua distro é a hora de você escolher o pen drive que você usará
+&lt;br&gt;&lt;br&gt;
+&lt;a href="images/imagem-usb-installer-passo4.png"&gt;&lt;img src="images/imagem-usb-installer-passo4.png" id="imagens"  height="350px"/&gt;&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+Após você escolher o pen drive, se sua distro tiver suporte nesse programa. Aparecerá a opção abaixo, nessa opção você pode escolher o tamanho da sua memória que servirá para guardar suas configurações, músicas e etc. Eu escolherei 500 MB.
+&lt;br&gt;&lt;br&gt;
+&lt;a href="images/imagem-usb-installer-passo5.png"&gt;&lt;img src="images/imagem-usb-installer-passo5.png" id="imagens"  height="350px"/&gt;&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+Após isso clique em create e aparecerá essa tela dizendo&lt;br&gt;
+1)Criar sistema Linux Master Boot Record (MBR)- MBR existentes serão sobrescritos&lt;br&gt;
+2)Criar UUI label no [E:]- Labels existentes serão sobrescritos&lt;br&gt;
+3)Instalar Ubuntu no [E:]&lt;br&gt;
+Você tem certeza que o dispositivo [E:] é seu?&lt;br&gt;
+Checagem dupla com windows (meu computador) para ter certeza&lt;br&gt;
+Clique SIM para fazer essas ações e clique em NÃO para abortar.&lt;br&gt;
+Clique em sim para instalar.
+&lt;br&gt;&lt;br&gt;
+&lt;a href="images/imagem-usb-installer-passo6.png"&gt;&lt;img src="images/imagem-usb-installer-passo6.png" id="imagens"  height="350px"/&gt;&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+E ela começará:
+&lt;br&gt;&lt;br&gt;
+&lt;a href="images/imagem-usb-installer-passo7.png"&gt;&lt;img src="images/imagem-usb-installer-passo7.png" id="imagens"  height="350px"/&gt;&lt;/a&gt;
+&lt;br&gt;&lt;br&gt;
+Ao terminar clique em close e pronto sua distro com memória persistente está pronta! Apenas reinicie seu computador e use-a. Caso não funcione altere a ordem do boot na bios, e caso mesmo assim não funcione, que provavelmente será o caso da versão do Windows 8 e Windows 10. Segure SHIFT, e clique em reiniciar, irá aparecer uma tela dizendo "Selecione uma opção". Clique em "Use um dispositivo". E depois selecione a primeira opção e pronto, irá fazer o reboot. Ao reiniciar ele entrará no menu grub. Esse menu grub terá várias opções, e se atente a elas. Você tem que clicar em "try &lt;em&gt;o nome da sua distribuição&lt;/em&gt; whitout installing".
+&lt;br&gt;&lt;br&gt;
+Divirta-se
+&lt;br&gt;&lt;br&gt;
+&lt;a href="images/ubuntu.png "&gt;&lt;img src="images/ubuntu.png" id="imagens" style="height:300px"/&gt;&lt;/a&gt;
+&lt;br&gt;&lt;/p&gt;</content><category term="linux"></category><category term="pendrive bootavel"></category><category term="ubuntu"></category></entry><entry><title>Uso do did</title><link href="https://somatheus.github.io/uso-did.html" rel="alternate"></link><published>2017-10-09T00:00:00-03:00</published><updated>2017-10-09T00:00:00-03:00</updated><author><name>Matheus O. Santos</name></author><id>tag:somatheus.github.io,2017-10-09:/uso-did.html</id><summary type="html">&lt;p&gt;Em um post passado sobre inglês eu expliquei sobre o uso de "DO" e "DOES"...&lt;/p&gt;</summary><content type="html">&lt;p&gt;Bem o "DID" é o passado de "DOES" e "DO". Em um post passado sobre inglês eu expliquei sobre o uso de "DO" e "DOES".
+Bem o "DID" é o passado de "DOES" e "DO". Fora isso, ele não distingue o sujeito, então você pode usar com, he, she, it, you, they. Etc. E ele também é usado como passado do verbo "Fazer" (em inglês: do/does).&lt;/p&gt;
+&lt;p&gt;Alguns exemplos:
+Did you eat?(Você comeu?)
+I did my homework yesterday(Eu fiz minha lição de casa ontem)&lt;/p&gt;
+&lt;p&gt;As respostas nele, são feitas exatamente da mesma forma que são feitas no presente (didn't). Mas caso você prefira pode usar também (did not), mesmo no presente (do not, does not).
+É isso, qualquer dúvida, deixe um comentário. &lt;/p&gt;</content><category term="Did"></category></entry><entry><title>Uso do Do e Does</title><link href="https://somatheus.github.io/uso-do-does.html" rel="alternate"></link><published>2017-10-08T00:00:00-03:00</published><updated>2017-10-08T00:00:00-03:00</updated><author><name>Matheus O. Santos</name></author><id>tag:somatheus.github.io,2017-10-08:/uso-do-does.html</id><summary type="html">&lt;p&gt;Faço esse post com apenas o intuito de dar uma explicação bem rápida sobre algumas em inglês. Muitas pessoas olham para o Inglês e acham que é a pior coisa do mundo, mas todas elas estão enganadas, o Inglês não é difícil, na verdade é mais simples que o Português, mas como somos nativos, não percebemos tanto a dificuldade do Português..&lt;/p&gt;</summary><content type="html">&lt;p&gt;Faço esse post com apenas o intuito de dar uma explicação bem rápida sobre algumas em inglês. Muitas pessoas olham para o Inglês e acham que é a pior coisa do mundo, mas todas elas estão enganadas, o Inglês não é difícil, na verdade é mais simples que o Português, mas como somos nativos, não percebemos tanto a dificuldade do Português. Tentarei explicar melhor o máximo que eu conseguir. Espero que entendam, qualquer dúvida, apenas comentem
+Não enrolarei e irei direto ao ponto para onde usamos cada coisa:&lt;/p&gt;
+&lt;p&gt;DO e DOES - Usamos para fazer pergunta que NÃO ESTÃO relacionadas a ser ou estar. O "DO", usamos antes de "I, you, they" .Exemplos: What do you want to eat? (O que você quer comer), What do they like? (O que eles gostam?), Do I hate you?(Eu odeio você?). Ele também é usado para responder, mas não usamos muito para responder perguntas com respostas positivas. Usamos mais para responder as negativas como:What do they like? They don't like anything(O que eles gostam? Eles não gostam de nada), What do you want to eat? I don't know, I just know that I want to eat something good(O que você quer comer? Eu não sei, apenas sei que eu quero comer alguma coisa boa).&lt;/p&gt;
+&lt;p&gt;O DOES, usamos para perguntas com (She, he, it). Exemplos:Does she like this?(Ela gosta disso?), Does he want to dance?(Ele quer dançar?), Does it sound good to you?(Isso soa bem para você?). Assim como o Do, usamos o Does, mais para negação: Does she like this?No she doesn't. Does he wanna dance?No he doesn't(Ele quer dançar? Não, ele não quer). Does it sound good to you? No, it doesn't(Isso soa bem para você? Não, não soa)&lt;/p&gt;
+&lt;p&gt;DO e DOES são usados também como verbo fazer. A regra é a mesma, Do para (I, you, e they), e Does para (he, she, it). Exemplos: What are you doing?(O que você está fazendo?). He does the homework everyday(Ele faz a lição de casa todo dia).&lt;/p&gt;</content><category term="Do"></category><category term="Does"></category></entry></feed>
