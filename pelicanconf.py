@@ -1,12 +1,14 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+from datetime import datetime
 
 AUTHOR = u'Matheus O. Santos'
 SITENAME = u'Matheus O. Santos'
-SITEURL = ''
+SITEURL= 'https://somatheus.github.io/'
 
 PATH = 'content'
+STATIC_PATHS = ['images']
 
 TIMEZONE = 'America/Sao_Paulo'
 
@@ -19,6 +21,16 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# Theme
+
+THEME = '/home/matheus/Downloads/nice-blog'
+THEME_COLOR ='cyan'
+SIDEBAR_DISPLAY = ['about', 'categories', 'tags']
+SIDEBAR_ABOUT = "Jovem de 18 anos apaixonado por programação, formado Técnico em Informática com alguns projetos a fazer."
+COPYRIGHT = "Matheus Oliveira Santos 2018"
+MY_CURRENT_AGE = datetime.now().year - 1999
+
+
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
@@ -26,10 +38,11 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+    ('github', 'https://github.com/somatheus'),
+    ('linkedin', 'https://www.linkedin.com/in/matheus-o-499723142/'),)
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
