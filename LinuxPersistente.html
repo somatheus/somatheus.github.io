@@ -1,0 +1,259 @@
+﻿<!DOCTYPE html>
+<!--[if IE 8 ]><html class="ie ie8" lang="pt"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="pt">
+<!--<![endif]-->
+	<head>
+            <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta name="author" content="Matheus O. Santos">
+
+
+        <title>Matheus O. Santos - Tutorial: Pendrive bootavel com Linux e memória persistente</title>
+
+            <link href="https://somatheus.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Matheus O. Santos Full Atom Feed" />
+            <link href="https://somatheus.github.io/feeds/tutoriais.atom.xml" type="application/atom+xml" rel="alternate" title="Matheus O. Santos Categories Atom Feed" />
+
+        <!-- CSS -->
+        <link rel="stylesheet" href="./theme/css/style.css">
+
+        <!-- Custom CSS -->
+        	<link rel="stylesheet" href="./theme/css/colors/cyan.css" id="colors">
+
+        <!-- Code highlight color scheme -->
+            <link href="./theme/css/code_blocks/darkly.css" rel="stylesheet">
+
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+
+
+
+        <meta name="tags" contents="linux" />
+        <meta name="tags" contents="pendrive bootavel" />
+        <meta name="tags" contents="ubuntu" />
+
+	                <meta property="og:locale" content="">
+		<meta property="og:site_name" content="Matheus O. Santos">
+
+	<meta property="og:type" content="article">
+	<meta property="article:author" content="">
+	<meta property="og:url" content="./LinuxPersistente.html">
+	<meta property="og:title" content="Tutorial: Pendrive bootavel com Linux e memória persistente">
+	<meta property="og:description" content="">
+	   <meta property="og:image" content="./images/guilherme-toti.jpg">
+	<meta property="article:published_time" content="2017-10-10 00:00:00-03:00">
+	</head>
+	<body>
+		<header id="header">
+			<!-- Container -->
+			<div class="container">
+				<!-- Logo / Mobile Menu -->
+				<div class="five columns">
+					<div id="textlogo">
+						<h1><a href="./">Matheus O. Santos</a></h1>
+					</div>
+				</div>
+						<!-- Navigation
+				================================================== -->
+				<div class="eleven columns">
+
+					<nav id="navigation" class="menu">
+						<ul id="responsive">
+
+							<li><a href="./">Home</a></li>
+
+
+							        <li><a href="./pages/Sobre.html">Sobre</a></li>
+						</ul>
+					</nav>
+				</div>
+			</div>
+			<!-- Container / End -->
+		</header>
+		<!-- Header / End -->
+
+		<!-- Breadcrumbs Container-->
+		<div id="content-wrapper">
+			<section id="titlebar">
+				<!-- Container -->
+				<div class="container">
+				<div class="thirteen columns">
+					<nav id="breadcrumbs">
+						<ul>
+							<li>You are here:</li>
+							<li><a href="./">Home</a></li>
+<li><a href="./category/tutoriais.html">tutoriais</a></li>
+<li>Tutorial: Pendrive bootavel com Linux e memória persistente</li>
+						</ul>
+					</nav>
+				</div>
+				</div>
+				<!-- Container / End -->
+			</section>
+
+			<div class="container">
+	<div class="twelve alt columns">
+<article class="post" style="margin: 0; border: 0;">
+
+	
+
+		<header class="meta">
+			<h2><a href="./LinuxPersistente.html">Tutorial: Pendrive bootavel com Linux e memória persistente</a></h2>
+			<ul>
+				<li>By <a href="./author/matheus-o-santos.html">Matheus O. Santos</a></li>
+				<li>ter 10 outubro 2017</li>
+			</ul>
+		</header>
+
+		<p>Hoje, vou mostrar para vocês como instalar uma distribuição linux com memória persistente. Bem, já vou avisando que o programa que vou usar hoje, pode não ser compátivel com todas as distribuições, mas para isso há outro programa chamado LiLi USB que talvez, TALVEZ, funcione a distribuição que você queira, por enquanto são os únicos que eu conheça. Mas se souber de mais algum, falo aqui e faço outro tutorial.
+<br><br>
+O que precisaremos para a realização do projeto. Precisaremos do Universal-USB-Installer e um pendrive eu recomendaria um no mínimo de 4 GB e eu usarei um com esse tamanho. Primeiro baixe o Universal-USB-Installer  <a href="http://www.pendrivelinux.com/downloads/Universal-USB-Installer/Universal-USB-Installer-1.9.6.8.exe" style="text-decoration:none">aqui</a> Ele não é um aplicativo que precisa ser instalado para usar ele, basta apenas abrir ele após baixar. Abra o aplicativo. E você terá uma tela com um tela com o acordo de licença (license agreement). Clique em "I Agree" para continuar. Depois disso você terá essa tela:
+<br><br>
+<a href="images/imagem-usb-installer-passo1.png"><img src="images/imagem-usb-installer-passo1.png" id="imagens"  height="300px"/></a>
+<br><br>
+Clique aqui e selecione sua distro. Eu usarei a do ubuntu:
+<br><br>
+<a href="images/imagem-usb-installer-passo2.png"><img src="images/imagem-usb-installer-passo2.png" id="imagens"  height="500px"/></a>
+<br><br> 
+Ao clicar aparecerá isso. Clique em Browse e selecione onde sua distro está 
+<br><br>
+<a href="images/imagem-usb-installer-passo3.png"><img src="images/imagem-usb-installer-passo3.png" id="imagens"  height="350px"/></a>
+<br><br>
+Depois de selecionar sua distro é a hora de você escolher o pen drive que você usará
+<br><br>
+<a href="images/imagem-usb-installer-passo4.png"><img src="images/imagem-usb-installer-passo4.png" id="imagens"  height="350px"/></a>
+<br><br>
+Após você escolher o pen drive, se sua distro tiver suporte nesse programa. Aparecerá a opção abaixo, nessa opção você pode escolher o tamanho da sua memória que servirá para guardar suas configurações, músicas e etc. Eu escolherei 500 MB.
+<br><br>
+<a href="images/imagem-usb-installer-passo5.png"><img src="images/imagem-usb-installer-passo5.png" id="imagens"  height="350px"/></a>
+<br><br>
+Após isso clique em create e aparecerá essa tela dizendo<br>
+1)Criar sistema Linux Master Boot Record (MBR)- MBR existentes serão sobrescritos<br>
+2)Criar UUI label no [E:]- Labels existentes serão sobrescritos<br>
+3)Instalar Ubuntu no [E:]<br>
+Você tem certeza que o dispositivo [E:] é seu?<br>
+Checagem dupla com windows (meu computador) para ter certeza<br>
+Clique SIM para fazer essas ações e clique em NÃO para abortar.<br>
+Clique em sim para instalar.
+<br><br>
+<a href="images/imagem-usb-installer-passo6.png"><img src="images/imagem-usb-installer-passo6.png" id="imagens"  height="350px"/></a>
+<br><br>
+E ela começará:
+<br><br>
+<a href="images/imagem-usb-installer-passo7.png"><img src="images/imagem-usb-installer-passo7.png" id="imagens"  height="350px"/></a>
+<br><br>
+Ao terminar clique em close e pronto sua distro com memória persistente está pronta! Apenas reinicie seu computador e use-a. Caso não funcione altere a ordem do boot na bios, e caso mesmo assim não funcione, que provavelmente será o caso da versão do Windows 8 e Windows 10. Segure SHIFT, e clique em reiniciar, irá aparecer uma tela dizendo "Selecione uma opção". Clique em "Use um dispositivo". E depois selecione a primeira opção e pronto, irá fazer o reboot. Ao reiniciar ele entrará no menu grub. Esse menu grub terá várias opções, e se atente a elas. Você tem que clicar em "try <em>o nome da sua distribuição</em> whitout installing".
+<br><br>
+Divirta-se
+<br><br>
+<a href="images/ubuntu.png "><img src="images/ubuntu.png" id="imagens" style="height:300px"/></a>
+<br></p>
+		    <div class="tags">
+		        <p>tags: <a href="./tag/linux.html">linux</a><a href="./tag/pendrive-bootavel.html">pendrive bootavel</a><a href="./tag/ubuntu.html">ubuntu</a></p>
+		    </div>
+
+<div class="sharing">
+</div>
+<hr>
+
+		    <div class="comments">
+		        <div id="disqus_thread"></div>
+		        <script>
+					(function() { // DON'T EDIT BELOW THIS LINE
+					var d = document, s = d.createElement('script');
+					s.src = 'disqus-user-name.disqus.com/embed.js';
+					s.setAttribute('data-timestamp', +new Date());
+					(d.head || d.body).appendChild(s);
+					})();
+				</script>
+		        <noscript>Please enable JavaScript to view the comments.</noscript>
+		    </div>
+	</section>
+	<div class="clearfix"></div>
+
+</article>
+
+	</div>
+
+	<!-- Sidebar -->
+	<div class="four columns">
+		<!-- About  -->
+		<div class="widget no-mg-top">
+			<h3 class="headline">About</h3><span class="line"></span><div class="clearfix"></div>
+			<p>Jovem de 18 anos apaixonado por programação, formado Técnico em Informática com alguns projetos a fazer.</p>
+		</div>
+
+		<!-- Categories -->
+		<div class="widget">
+			<h3 class="headline">Categories</h3><span class="line"></span><div class="clearfix"></div>
+			<nav class="categories">
+				<ul>
+					    <li><a href="./category/ingles.html">inglês</a></li>
+					    <li class="active"><a href="./category/tutoriais.html">tutoriais</a></li>
+				</ul>
+			</nav>
+		</div>
+		
+		<!-- Tags -->
+		<div class="widget">
+			<h3 class="headline">Tags</h3><span class="line"></span><div class="clearfix"></div>
+			<nav class="tags">				    <a href="./tag/abnt.html">abnt</a>
+				    <a href="./tag/did.html">Did</a>
+				    <a href="./tag/do.html">Do</a>
+				    <a href="./tag/does.html">Does</a>
+				    <a href="./tag/formtacao.html">formtacao</a>
+				    <a href="./tag/linux.html">linux</a>
+				    <a href="./tag/pendrive-bootavel.html">pendrive bootavel</a>
+				    <a href="./tag/ubuntu.html">ubuntu</a>
+				    <a href="./tag/word.html">word</a>
+			</nav>
+		</div>
+	</div>
+			</div>
+			<!-- Container / End -->
+		</div>
+		<!-- Content Wrapper / End -->
+
+		<div id="footer-bottom">
+			<!-- Container -->
+			<div class="container">
+				<div class="eight columns">&copy; Matheus Oliveira Santos 2018 || Blog powered by <a href="http://getpelican.com">Pelican</a></div>
+					<div class="eight columns">
+						<ul class="social-icons-footer">
+								<li>
+									<a href="https://github.com/somatheus" class="tooltip top" title="github">
+										<i class="icon-github"></i>
+									</a>
+								</li>
+								<li>
+									<a href="https://www.linkedin.com/in/matheus-o-499723142/" class="tooltip top" title="linkedin">
+										<i class="icon-linkedin"></i>
+									</a>
+								</li>
+							<li><a href="./feeds/all.atom.xml" class="tooltip top" title="RSS"><i class="icon-rss"></i></a></li>
+						</ul>
+					</div>
+			</div>
+			<!-- Container / End -->
+		</div>
+		<!-- Footer Bottom / End -->
+
+	<!-- Javascripts -->
+	<script src="./theme/js/jquery.min.js"></script>
+<script>
+(	function() { // DON'T EDIT BELOW THIS LINE
+		var d = document, s = d.createElement('script');
+		s.src = 'disqus-user-name.disqus.com/embed.js';
+		s.setAttribute('data-timestamp', +new Date());
+		(d.head || d.body).appendChild(s);
+	})();
+</script>
+<noscript>Please enable JavaScript to view the</noscript>	</body>
+</html>
