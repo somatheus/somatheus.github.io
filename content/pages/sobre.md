@@ -5,8 +5,7 @@ Slug: Sobre
 <br>
 <p id="postagens">
 
-<figure style="float:left;padding: 0 10px 10px 0">
-<img src="../images/matheus.jpeg" style="height:100px;width:100px"/></figure>Formado Técnico em Informática na ETEC, pelo Centro Paula Souza. <br>  e graduando em Análise e Desenvolvimento de Sistemas pela Fatec Praia Grande
+Formado Técnico em Informática na ETEC, pelo Centro Paula Souza. <br>  e graduando em Análise e Desenvolvimento de Sistemas pela Fatec Praia Grande
 
 
 
