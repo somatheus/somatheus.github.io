@@ -51,3 +51,6 @@ macro, criação de formulário e relacionamentos.
 <h2><a>Projetos</h2></a>
 
 Tenho alguns projetos feitos durante o tempo que estava estudando na Etec, os projetos são na maioria de programas desktop feito para administração de comércios. Porém eles deram noção de desenvolvimento desktop e das linguagens que aprendi. Você pode encontrar meu repositório com os projetos <a href="https://github.com/somatheus/Projetos">aqui</a>
+
+<br>
+<br>
