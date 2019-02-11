@@ -18,7 +18,7 @@ Slug: Sobre
 
 <b>Faculdade: 2° Semestre</b>
 
-<progress max="16.6666667" value="100" style="width:250px"></progress>
+<progress max="100" value="16.6666667" style="width:250px"></progress>
 
 
 <hr>
